@@ -1,0 +1,16 @@
+{
+  "name": "eklasewallpapernodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krišjānis Petručeņa",
+  "license": "ISC",
+  "dependencies": {
+    "images": "^3.2.3",
+    "puppeteer": "^8.0.0",
+    "wallpaper": "^4.4.2"
+  }
+}
